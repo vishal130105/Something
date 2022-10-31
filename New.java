@@ -1,18 +1,18 @@
 import java.util.*;
 
-public class papu {
+public class Papu {
 
-    public static void main(string args[])
+    public static void main(String args[])
 
     {
 
-        scanner scan = new scanner (system.in);
+        Scanner scan = new Scanner (System.in);
 
-        system.out.println("enter your happiness:");
+        System.out.println("Enter your happiness:");
 
-        string s1 = scan.next();
+        String s1 = scan.next();
 
-        if(s1.compareto(":)")==0)
+        if(s1.compareTo(":)")==0)
 
         {
 
