@@ -86,7 +86,7 @@ public class papu {
 
         {
 
-          system.out.print("you are not happy");
+          System.out.println("You are not happy");
 
         }
 
