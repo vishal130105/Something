@@ -8,9 +8,9 @@ typedef long long int lli;
 
  
 
-//const int N = 10e5+5;
+const int N = 10e5+5;
 
-//int arr[N];
+int arr[N];
 
  
 
